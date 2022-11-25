@@ -5,8 +5,14 @@ Mahindra Cars
 4.XUV300
 5.Scorpio
 
+6.XUV700
+7.Scorpio_N
+
 Tata Cars
 1.Nexon
 2.Hexa
 3.Harrier
 4.Altroz
+
+5.Safari
+6.Bolt
